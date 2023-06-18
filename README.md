@@ -11,6 +11,7 @@ Esta é uma API para gerenciamento de filmes.
 
 1. Clone o repositório:
 
+https://github.com/tobiascorrea/API_Filmes
 
 2. Instale as dependências:
 
