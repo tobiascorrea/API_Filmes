@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach by Process ID",
+      "processId": "${command:PickProcess}",
+      "request": "attach",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node"
+    }
+    // {
+    //   "type": "node",
+    //   "request": "attach",
+    //   "name": "Launch Program",
+    //   "remoteRoot": "/usr/src/api-vex-ts",
+    //   "port": 9222,
+    //   "restart": true
+    //   //"processId": "${command:PickProcess}",
+    //   //"skipFiles": ["<node_internals>/**"]
+    // }
+  ]
+}
