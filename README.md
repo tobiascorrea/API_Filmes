@@ -21,6 +21,7 @@ npm install
 4. Execute o projeto:
 
 npm start
+npm run dev (Sobe a aplicação em ambiente de desenvolvimento)
 
 
 5. Acesse a API:
